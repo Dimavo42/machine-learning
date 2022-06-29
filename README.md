@@ -1,5 +1,5 @@
 # machine-learning
 Done by :
- Dima Voronov 321241119
-Itay menashe 313298655
+ Dima Voronov 
+Itay menashe 
 machine-learning project that predict  life expectancy
