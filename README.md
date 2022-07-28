@@ -15,3 +15,5 @@ Makeing one big dataframe to work with it.
 4)Remove outliers from that data make everything ready for the machine learning process
 5)define best vectors of the data that have score 0.3 or -0.3 with our vector of life expectancy
 6)Predict the vector:)
+![Screenshot 2022-07-28 134527](https://user-images.githubusercontent.com/87165144/181487506-580044ff-9ec5-46a0-b4c0-fe14cd5b41c0.jpg)
+![Screenshot 2022-07-28 134604](https://user-images.githubusercontent.com/87165144/181487513-9f4e5c99-6bd9-484e-8907-1429a710e25e.jpg)
